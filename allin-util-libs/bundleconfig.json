@@ -1,0 +1,10 @@
+[
+  {
+    "outputFileName": "dist/aul.js",
+    "inputFiles": [
+        "src/js/string/aul.js.string.js",
+        "src/js/array/aul.js.array.js",
+        "src/jquery/animation/aul.jquery.animation.js"
+    ]
+  }
+]
